@@ -1,0 +1,17 @@
+{
+  "name": "homework",
+  "version": "0.0.0",
+  "private": true,
+  "description": "mongoose practice",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5",
+    "http": "0.0.0",
+    "mongoose": "^4.0.6",
+    "q": "^1.4.1"
+  }
+}
